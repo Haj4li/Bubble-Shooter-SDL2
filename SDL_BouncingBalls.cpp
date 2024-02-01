@@ -1,6 +1,9 @@
 #include <Game.h>
 
 
+// Ali Nakhaee
+// https://github.com/Haj4li
+
 //Screen dimension constants
 #define SCREEN_WIDTH 600
 #define SCREEN_HEIGHT 650
